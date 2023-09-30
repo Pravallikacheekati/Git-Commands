@@ -8,7 +8,7 @@ touch t1.txt \
 git add \
 git status \
 git commit -m "some commit message" \
-Go to github.com create a repository with same name as local repo and run below commands \
+Go to [GitHub.com](https://github.com) create a repository with same name as local repo and run below commands \
 git remote add origin <Repo Url>
 ```
 git remote add origin https://github.com/Pravallikacheekati/Demo.git

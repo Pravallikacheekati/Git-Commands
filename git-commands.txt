@@ -11,5 +11,16 @@ Go to github.com create a repository with same name as local repo and run below 
 git remote add origin <remote repository url ex: git remote add origin https://github.com/Pravallikacheekati/Demo.git>
 git push -u origin master
 
+# Create a rpmote repository in Github and clone to local
+
+Go to github.com 
+create a new repository and clone by running the following commnd.
+git clone <Repo url>
+cd <Repo Name>
+add a file <touch t1.txt>
+git add t1.txt
+git commit -m "You commit message here"
+git push
+
 
 
